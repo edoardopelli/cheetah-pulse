@@ -3,7 +3,7 @@
 A reusable authentication foundation for Spring Boot apps that verifies users via **phone number + OTP (6-digit PIN)** and authenticates with **JWT**. Built with **Java 21**, **Spring Boot 3.5.5**, **Spring Security**, and **MongoDB**.
 
 **Repository:** `pulse-auth`  
-**Base package (current code):** `org.cheetah.pulse` (rename if desired)
+**Base package (current code):** `org.cheetah.pulse`
 
 ---
 
