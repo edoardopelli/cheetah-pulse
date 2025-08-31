@@ -8,10 +8,10 @@
 		<version>3.5.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.setupnet</groupId>
-	<artifactId>johndoe</artifactId>
+	<groupId>org.cheetah</groupId>
+	<artifactId>cheetah-pulse</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<name>spring-smith-1</name>
+	<name>cheetah-pulse</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
